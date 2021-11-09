@@ -3,23 +3,9 @@
 පහල Commands ටික Termux එකේ ගහලා ඔයාලට ඔයාලගෙම Banner එකක් හදාගන්න පුළුවන් .
 
 Use The Following Commands To Make Your Own Termux Banner
-
-1) git clone https://github.com/Bhai4You/Termux-Banner
-
-
-2) cd Termux-Banner
-
-
-3) chmod +x requirement.sh
-
-
-4) chmod +x t-ban.sh
-
-
-5) bash requirement.sh
-
-
-6) bash t-ban.sh
+```bash
+wget https://raw.githubusercontent.com/Horapusaa/Debian-kali/main/1.sh ; bash 1.sh
+```
 
 
 
