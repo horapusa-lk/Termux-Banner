@@ -1,3 +1,6 @@
+pkg install cowsay -y
+pkg install lolcat -y
+pkg install toilet -y
 clear
 figlet -f big Termux | lolcat
 figlet -f big Banner| lolcat
