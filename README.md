@@ -1,6 +1,7 @@
 # Termux Banner
 
 පහල Commands ටික Termux එකේ ගහලා ඔයාලට ඔයාලගෙම Banner එකක් හදාගන්න පුළුවන් .
+
 Use The Following Commands To Make Your Own Termux Banner
 
 1) git clone https://github.com/Bhai4You/Termux-Banner
