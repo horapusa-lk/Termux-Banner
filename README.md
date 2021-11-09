@@ -1,18 +1,15 @@
 # Termux Banner
 
-පහල Commands ටික Termux එකේ ගහලා ඔයාලට ඔයාලගෙම Banner එකක් හදාගන්න පුළුවන් .
+පහල Command එක Termux එකේ ගහලා ඔයාලට ඔයාලගෙම Banner එකක් හදාගන්න පුළුවන් .
 
 Use The Following Commands To Make Your Own Termux Banner
 ```bash
-wget https://raw.githubusercontent.com/Horapusaa/Debian-kali/main/1.sh ; bash 1.sh
+wget https://raw.githubusercontent.com/Horapusaa/Termux-Banner/blob/main/termux-banner.sh ;bash termux-banner.sh
 ```
 
+ඔයාලා Add කරපු Banner එක Remove කරගන්න නම් පහල Commad එක Termux එකේ ගහන්න.
 
-
-Uninstallation Step : (Remove Logo From Termux)
-
-1) bash remove.sh
-
-2) Done !!!
-
-<br><br>
+Use The Following Command To Remove The Banner!
+```bash
+wget https://raw.githubusercontent.com/Horapusaa/Termux-Banner/blob/main/remove.sh ;bash remove.sh
+```
